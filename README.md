@@ -277,4 +277,4 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Diego B. Alvarado Velasquez** <[diegosmen111](https://github.com/diegosmen111)>
+* **Diego B. Alvarado Velasquez** <[diegosmen111](https://github.com/diegosmen111)
